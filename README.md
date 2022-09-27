@@ -1,16 +1,22 @@
-### Hi there 👋
+# 🧊 zaqk
 
-<!--
-**izqkk/izqkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`CTF Player (Student/Bored/Soon to be Content Creator)`**
 
-Here are some ideas to get you started:
+Hello everyone, <br>
+I'm a student who's trying to learn new things daily. <br>
+I am part of the [NestingDoll][NestingDollCTFTwitter] CTF team. <br>
+I love to break, destroy and also make things that aren't supposed to exist or work. <br>
+I'm open to anything and everyone so feel free to reach out.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+#
+
+### Inspirational Quotes
+*A **Hacker** is someone who tries to make toast with a coffe machine.* <br>
+~ some guy I saw on youtube I think
+
+*Can we talk about the political and economic satet of the world right now* <br>
+~ Yung Hurn
+
+[NestingDollCTFTwitter]: https://twitter.com/NestingDollCTF

@@ -8,7 +8,12 @@ I am part of the [NestingDoll][NestingDollCTFTwitter] CTF team. <br>
 I love to break, destroy and also make things that aren't supposed to exist or work. <br>
 I'm open to anything and everyone so feel free to reach out.
 
+#
 
+<h3 align="left">Socials:</h3>
+<p align="left">
+<a href="https://twitter.com/@zaqk_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@zaqk_" height="30" width="40" /></a>
+</p>
 
 #
 

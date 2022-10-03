@@ -12,9 +12,9 @@ I'm open to anything and everyone so feel free to reach out.
   <!--Twitter-->
 <h3 align="left">Socials:</h3>
 <p align="left">
-<a href="https://twitter.com/@zaqk_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@zaqk_" height="30" width="40" /></a>
+<a href="https://twitter.com/@zaqk_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
   <!--Discord-->
-<a href="https://discordapp.com/users/650745555806584855" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@zaqk_" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/650745555806584855" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 </p>
 
 #
@@ -25,5 +25,12 @@ I'm open to anything and everyone so feel free to reach out.
 
 *Can we talk about the political and economic satet of the world right now* <br>
 ~ Yung Hurn
+
+#
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/izqkk/izqkk/main/svg/Bottom.svg" alt="Bottom" />
+</p>
+
 
 [NestingDollCTFTwitter]: https://twitter.com/NestingDollCTF

@@ -23,7 +23,7 @@ I'm open to anything and everyone so feel free to reach out.
 *A **Hacker** is someone who tries to make toast with a coffe machine.* <br>
 ~ some guy I saw on youtube I think
 
-*Can we talk about the political and economic satet of the world right now* <br>
+*Can we talk about the political and economic state of the world right now* <br>
 ~ Yung Hurn
 
 #

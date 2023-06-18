@@ -4,7 +4,7 @@
 
 Hello everyone, <br>
 I'm a student who's trying to learn new things daily. <br>
-I am part of the [NestingDoll][NestingDollCTFTwitter] CTF team. <br>
+I am part of the [b3R4bb1t$][ber4bb1tsWebsite] and [NestingDoll][NestingDollCTFTwitter](inactive) CTF team. <br>
 I love to break, destroy and also make things that aren't supposed to exist or work. <br>
 I'm open to anything and everyone so feel free to reach out.
 
@@ -34,3 +34,4 @@ I'm open to anything and everyone so feel free to reach out.
 
 
 [NestingDollCTFTwitter]: https://twitter.com/NestingDollCTF
+[ber4bb1tsWebsite]: https://ber4bb1ts.github.io/

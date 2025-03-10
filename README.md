@@ -26,7 +26,7 @@ I'm open to anything and everyone so feel free to reach out.
 *Can we talk about the political and economic state of the world right now* <br>
 ~ Yung Hurn
 
-*Don't do **bad** hacker stuff. Do **good** hacker stuff.* <br>
+*Don't do **bad** hacker stuff.* <br>
 ~ Mom
 
 #
